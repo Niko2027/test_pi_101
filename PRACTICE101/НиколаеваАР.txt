@@ -1,0 +1,41 @@
+commit 3ac4ceacddcb78fd15148d0b702ec52ca2f8c1d5
+Author: Aigul <troi.2014@mail.ru>
+Date:   Thu Feb 26 09:34:28 2026 +0500
+
+    added prerelease
+
+commit 981457c8dd9ec561601c7ed8e0a9ece8ec178322
+Author: Aigul <troi.2014@mail.ru>
+Date:   Thu Feb 26 09:25:51 2026 +0500
+
+    updated gitignore
+
+commit 44cdcc32e19c05c26d36a396a6efc7516e6b574a
+Author: Aigul <troi.2014@mail.ru>
+Date:   Thu Feb 26 09:15:33 2026 +0500
+
+    added gitignore
+
+commit c16329225359fb1a49408806b7a93c3e7b30b371
+Author: Aigul <troi.2014@mail.ru>
+Date:   Wed Feb 25 20:19:14 2026 +0500
+
+    added grade and more changes
+
+commit 182a1bfac56028e2200f88d291712f783bbc804b
+Author: Aigul <troi.2014@mail.ru>
+Date:   Wed Feb 25 20:02:40 2026 +0500
+
+    Added readme
+
+commit 8d6eecfdf82355cc35123ba37c3204fcd298d8b3
+Author: Aigul <troi.2014@mail.ru>
+Date:   Wed Feb 25 19:55:57 2026 +0500
+
+    Added readme
+
+commit 3bd430bc6d5f51d1c518867d702bc1b2125a4a1f
+Author: Aigul <troi.2014@mail.ru>
+Date:   Wed Feb 25 19:44:23 2026 +0500
+
+    Added Hello word
